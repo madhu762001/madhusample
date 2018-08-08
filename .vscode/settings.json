@@ -1,0 +1,20 @@
+{
+   
+   // Confirm before synchronizing git repositories
+  "git.confirmSync": true,
+   
+    // Controls whether to use .gitignore and .ignore files when searching for files.
+   "search.useIgnoreFiles": true,
+    
+    // Whether auto fetching is enabled
+    "git.autofetch": false,
+    
+    // Is git enabled
+    "git.enabled": true,
+
+    // Path to the git executable
+    "git.path": null,
+
+    "git.decorations.enabled": false 
+
+}
