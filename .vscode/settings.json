@@ -12,8 +12,7 @@
     // Is git enabled
     "git.enabled": true,
 
-    // Path to the git executable
-    "git.path": null,
+  
 
     "git.decorations.enabled": false 
 
